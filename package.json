@@ -1,0 +1,28 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "task management prototype ",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Chethan L Reddy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.1.0",
+    "nodemon": "^3.0.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chethanlreddy/task_node_prototype.git"
+  },
+  "keywords": [
+    "tasks"
+  ],
+  "bugs": {
+    "url": "https://github.com/chethanlreddy/task_node_prototype/issues"
+  },
+  "homepage": "https://github.com/chethanlreddy/task_node_prototype#readme"
+}
